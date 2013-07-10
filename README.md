@@ -1,7 +1,7 @@
 Playvue.com GameAPI
 =======
 <p>
-An API to access social features on the Playvue.com social casual game platform.
+An API to access social features on the Playvue.com social casual game platform.  This API requires your game be loaded in the Playvue.com platform.  To gain access to our web-based sandbox for testing/debuging, submit your game to http://dev.playvue.com/.
 </p>
 <p>
 To initialize the API in your game, create a GameAPI() object and add it to the display list before calling GameAPI.init()
